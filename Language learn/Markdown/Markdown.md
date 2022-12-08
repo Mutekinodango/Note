@@ -109,3 +109,8 @@ func main(){
 
 
 
+This is the *[Markdown Guide](https://www.markdownguide.org/)*.
+
+[*Video*](https://youtu.be/EigxHkpqJdA)
+
+[*Slides*](https://slides.com/biezhi/what-is-markdown)
