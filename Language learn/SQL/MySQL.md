@@ -79,10 +79,36 @@ DROP DATABASE `DATABASE`;
 
 
 
+
+
 ## 主键&外键
 
 1. 外键必须是主键
 2. Primary key也可以同时是foreign key
 
+
+
+## 数据库管理工具（database management & design tool）
+
+- [workbench](https://www.bilibili.com/video/BV1b14y1j7AN/?share_source=copy_web&vd_source=ac6522e9f67d9983a8a0400f5110f184" "MySQL workbench  数据库表数据插入两种快捷方式")
+- 
+
+- Navicat
+
 > [MySQL 入门教程](https://wangchujiang.com/mysql-tutorial/)
 
+## 一些疑问Q&A
+
+### Mysql where条件对int字段的处理
+
+![image-20230206182736064](C:\Users\76573\OneDrive\Study\Notes\Language learn\image\image-20230206182736064.png)
+
+### mysql查询语句，int类型加引号居然也能查
+
+https://blog.csdn.net/qq_41885871/article/details/88738414
+
+### 开发日记之mysql直接对int字段传string
+
+https://blog.csdn.net/KO_NO_JOJO/article/details/109675767?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7ERate-1-109675767-blog-76906525.pc_relevant_recovery_v2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7ERate-1-109675767-blog-76906525.pc_relevant_recovery_v2&utm_relevant_index=2
+
+![image-20230206182600864](C:\Users\76573\OneDrive\Study\Notes\Language learn\image\image-20230206182600864.png)
