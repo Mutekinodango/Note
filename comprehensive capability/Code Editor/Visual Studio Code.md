@@ -23,3 +23,5 @@ Here's an example of expanding the selection with Shift+Alt+Right:
 ![](https://code.visualstudio.com/assets/docs/editor/codebasics/expandselection.gif)
 
 [vscode插件 - 解决VSCode中emmet对行内标签不换行的问题 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000040200595)
+
+# ==[window]==[vscode复制相对路径时是反斜杠\，改为正斜杠/ [转]\_51CTO博客\_vscode复制当前行](https://blog.51cto.com/u_15770151/6101042)

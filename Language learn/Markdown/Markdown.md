@@ -121,9 +121,7 @@ func main(){
 
 [toc]
 
-
-
-This is the *[Markdown Guide](https://www.markdownguide.org/)*.
+> This is the *[Markdown Guide](https://www.markdownguide.org/)*.
 
 [*Video*](https://youtu.be/EigxHkpqJdA)
 
@@ -131,6 +129,7 @@ This is the *[Markdown Guide](https://www.markdownguide.org/)*.
 
 [Markdown 官方教程](https://markdown.com.cn/)
 
-[Markdown 指南中文版](https://www.markdown.xyz/)
+[Markdown 指南中文版](http	s://www.markdown.xyz/)
 
 [Typora快捷键 ](https://www.cnblogs.com/hongdada/p/9776547.html)
+

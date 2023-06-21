@@ -30,6 +30,10 @@
 
 #注意：net start mysql57和net stop mysql57命令中的 mysql57 是 MySQL 服务器名称，如果你的 MySQL 服务名称是 DB 或其它的名字，应该输入net start DB或其它名称，否则提示服务名无效。
 net start mysql80
+net start mysql服务名
+net stop mysql服务名
+
+PS：mysql服务名，根据自己安装时定义的为准，例如我的是mysql57
 ```
 
 
